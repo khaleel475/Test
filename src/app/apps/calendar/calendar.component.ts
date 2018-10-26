@@ -7,6 +7,7 @@ import { Component, AfterViewInit } from '@angular/core';
 export class CalendarComponent {
     constructor() { }
 
+    // Testing Sample
     date: Date = new Date();
     d: any = new Date().getDate();
     m: any = new Date().getMonth();
